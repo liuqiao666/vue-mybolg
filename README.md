@@ -1,9 +1,14 @@
 # vue-mybolg
 vue2.0+vue-router+mongoDB+koa2+vuex+响应式布局=前后端分离的个人博客
 
-我会使用花生壳的内网穿透
+
+## 花生壳内网穿透
 ## 访问域名为：http://liuqiao666.vicp.io:35516
 如果不能访问到的话说明我没有开服务器或者我的ip地址改变了，嘻嘻
+
+## 我的博客
+## 访问域名为：http://loveqiao.top/
+欢迎来访喔~
 
 ## 主要技术构成
 前端主要技术栈为vue.js、vue-router、 vue-resource、 vuex
