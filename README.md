@@ -55,51 +55,44 @@ npm run dev
 - 邮箱通知功能，已经为大家注册了一个公用126邮箱去发送邮件，如果频繁发送邮件到一固定邮箱，则会被当成垃圾邮件被系统拦截。如果需要频繁发送邮件测试，可以在接收邮箱中设置邮箱白名单，也可以在接收邮箱中添加公用的126邮箱为联系人。
 - 登录界面在：最底下的——‘站长登录’
 
-### 目录
-```
-│  .babelrc             babel配置
-│  .editorconfig        编辑器配置
-│  .eslintignore        eslint忽略
-│  .eslintrc.js         eslintrc配置
-│  .gitignore           git上传忽略
-│  .postcssrc.js
-│  debug.log
-│  index.html           打包模板
-│  package.json
-│  README.md
-│  LICENSE
-│
-├─build
-│
-├─server                服务端
-│      │
-│      ├─ api           Restful接口
-│      │
-│      ├─ db            数据库
-│      │
-│      ├─ middlewares   中间件
-│      │
-│      ├─app.js
-│      └─email.js
-│
-├─src
-│   │  main.js        项目入口
-│   │  App.vue          根组件
-│   │
-│   ├─assets          外部引用文件
-│   │  ├─css
-│   │  └─js
-│   │
-│   ├─components      vue组件
-│   │  ├─back         后台组件
-│   │  ├─front        前台组件
-│   │  └─share        共享组件
-│   │
-│   ├─ lib
-│   │
-│   ├─router          路由
-│   │
-│   └─store           vuex文件
-│
-└─static            静态文件
-```
+首页
+
+![主页](http://ou36fnayx.bkt.clouddn.com/1.png)
+
+博客所有文章
+
+![博客文章](http://ou36fnayx.bkt.clouddn.com/2.png)
+
+联系站长
+
+![联系站长](http://ou36fnayx.bkt.clouddn.com/3.png)
+
+关于我
+
+![关于我](http://ou36fnayx.bkt.clouddn.com/4.png)
+
+站长登陆
+
+![站长登陆](http://ou36fnayx.bkt.clouddn.com/5.png)
+
+#### 后台效果
+
+登陆
+
+![登陆](http://ou36fnayx.bkt.clouddn.com/6.png)
+
+所有文章
+
+![所有文章](http://ou36fnayx.bkt.clouddn.com/7.png)
+
+搜索文章
+
+![搜索](http://ou36fnayx.bkt.clouddn.com/8.png)
+
+草稿
+
+![草稿](http://ou36fnayx.bkt.clouddn.com/11.png)
+
+ 修改账户
+
+![修改账户](http://ou36fnayx.bkt.clouddn.com/9.png)
