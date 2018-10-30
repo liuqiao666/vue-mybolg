@@ -8,6 +8,9 @@ vue2.0+vue-router+mongoDB+koa2+vuex+响应式布局=前后端分离的个人博�
 
 ## 我的博客
 ## 访问域名为：http://loveqiao.top/
+## 备份访问域名为：http://morly.top/
+## 个人网站为：http://morly.cc/
+
 欢迎来访喔~
 
 ## 主要技术构成
